@@ -1,0 +1,20 @@
+{
+  "Secrets": {
+    "apiKey": ""
+  },
+  "HTTPServer": {
+    "port": "80"
+  },
+  "SSH": {
+    "address": "",
+    "port": "",
+    "username": "",
+    "password": ""
+  },
+  "Mongo": {
+    "address": ""
+  },
+  "Logging": {
+    "level": "info"
+  }
+}
